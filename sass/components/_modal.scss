@@ -101,7 +101,7 @@
         }
         
         &:focus,
-        &:focus + .icon {
+        &:focus + .form__icon {
             border-color: $accent-color;
             fill: $accent-color;
         }

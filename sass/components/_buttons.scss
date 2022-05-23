@@ -15,8 +15,6 @@
 
     &--subscribe {
         @include centeredFlex($display: inline-flex);
-        // display: inline-flex;
-        // align-items: center;
         flex-shrink: 0;
         padding: 8px 29px;
         margin-left: 12px;
