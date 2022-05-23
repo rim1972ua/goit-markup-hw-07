@@ -735,6 +735,7 @@ body {
 }
 
 .form__input {
+  outline: none;
   width: 448px;
   height: 40px;
   margin-bottom: 10px;

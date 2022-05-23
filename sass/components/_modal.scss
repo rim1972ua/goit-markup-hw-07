@@ -81,6 +81,7 @@
 
     &__input {
         @extend .form__label;
+        outline: none;
         width: 448px;
         height: 40px;
         margin-bottom: 10px;
